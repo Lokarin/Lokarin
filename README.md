@@ -1,13 +1,13 @@
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokarin&show_icons=true&theme=tokyonight)
 
-### Yo! 
 <br>
+Yo! 
 <h3> ╾╴Sobre mim: </h3>
 
 > - Sexo: Masculino / Idade: 16 Anos.
 > - Estudante de Ensino Médio.
 > - Interessado em áreas de tecnologia como Analise e Desinvolvimento de Sistemas.
-> - Gosto de criar pquenos progamas para facilitar meu dia.
+> - Gosta de criar pequenos progamas para facilitar meu dia a dia.
 > - Linguagens de progamação favoritas:
 >> - Python;
 >> - Lua;
