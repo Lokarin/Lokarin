@@ -4,11 +4,12 @@
 Yo! 
 <h3> ╾╴Sobre mim: </h3>
 
-> - Sexo: Masculino / Idade: 16 Anos.
-> - Estudante de Ensino Médio.
-> - Interessado em áreas de tecnologia como Analise e Desinvolvimento de Sistemas.
-> - Gosta de criar pequenos progamas para facilitar meu dia a dia.
-> - Linguagens de progamação favoritas:
+> - ♂ Sexo: Masculino / Idade: 16 Anos.
+> - 📚 Estudante de Ensino Médio.
+> - 💻 Interessado em áreas de tecnologia como Analise e Desinvolvimento de Sistemas.
+> - 🤓 Gosta de criar pequenos progamas para facilitar meu dia a dia.
+> - 🐧 Usuário Linux.
+> - 👨‍💻 Linguagens de progamação favoritas:
 >> - Python;
 >> - Lua;
 >> - C;
@@ -16,7 +17,7 @@ Yo!
 >> - HTML.
 
 
-<h3> ╾╴Contato: </h3>
+<h3> ╾╴📱Contato: </h3>
 
 > - [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:onukiamaral@gmail.com)](mailto:onukiamaral@gmail.com)
 
