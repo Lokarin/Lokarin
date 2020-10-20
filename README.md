@@ -1,7 +1,6 @@
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokarin&show_icons=true&theme=tokyonight)
 
 ### Yo! 
-
 <br>
 <h3> ╾╴Sobre mim: </h3>
 
