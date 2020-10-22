@@ -19,6 +19,8 @@ Yo!
 
 <h3> ╾╴📱Contato: </h3>
 
+> - [![Protonmail Badge](https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:onukiamaral@protonmail.com)](mailto:onukiamaral@protonmail.com)
+
 > - [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:onukiamaral@gmail.com)](mailto:onukiamaral@gmail.com)
 
 > - [![Whatsapp Badge](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548996203390)](https://api.whatsapp.com/send?phone=5548996203390)
