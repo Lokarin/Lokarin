@@ -4,7 +4,7 @@
 Yo! 
 <h3> ╾╴Sobre mim: </h3>
 
-> - ♂ Sexo: Masculino / Idade: 16 Anos.
+> - ♂ Sexo: Masculino / Idade: 17 Anos.
 > - 📚 Estudante de Ensino Médio.
 > - 💻 Interessado em áreas de tecnologia como Analise e Desinvolvimento de Sistemas.
 > - 🤓 Gosta de criar pequenos progamas para facilitar o dia a dia.
