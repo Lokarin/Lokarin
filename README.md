@@ -6,9 +6,9 @@ Yo!
 
 > - ♂ Sexo: Masculino / Idade: 17 Anos.
 > - 📚 Estudante de Ensino Médio.
-> - 💻 Interessado em áreas de tecnologia como Analise e Desinvolvimento de Sistemas.
-> - 🤓 Gosta de criar pequenos progamas para facilitar o dia a dia.
-> - 🐧 Usuário Linux.
+> - 💻 Interessado em áreas de tecnologia como Analise e Desinvolvimento de Sistemas e Segurança da Informação.
+> - 🤓 Gosta de criar pequenos progamas e ferramentas para facilitar o dia a dia.
+> - 🐧 Usuário/Estudante Linux.
 > - 👨‍💻 Linguagens de progamação favoritas:
 >> - Python;
 >> - Lua;
