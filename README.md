@@ -23,6 +23,8 @@ Yo!
 
 > - [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:onukiamaral2@gmail.com)](mailto:onukiamaral2@gmail.com)
 
+> - [!Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-amaral-onuki/)
+
 > - [![Whatsapp Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/henrique_amaral_onuki)](https://www.instagram.com/henrique_amaral_onuki/)
 
 <br>
