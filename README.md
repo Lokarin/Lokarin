@@ -21,7 +21,7 @@ Yo!
 
 > - [![Protonmail Badge](https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:onukiamaral@protonmail.com)](mailto:onukiamaral@protonmail.com)
 
-> - [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:onukiamaral@gmail.com)](mailto:onukiamaral@gmail.com)
+> - [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:onukiamaral2@gmail.com)](mailto:onukiamaral2@gmail.com)
 
 > - [![Whatsapp Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/henrique_amaral_onuki)](https://www.instagram.com/henrique_amaral_onuki/)
 
