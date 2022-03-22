@@ -11,7 +11,7 @@ Yo!
 > - 👨‍💻 Linguagens de progamação favoritas:
 >> - Python;
 >> - Lua;
->> - C;
+>> - C++;
 >> - Kotlin;
 >> - HTML.
 
