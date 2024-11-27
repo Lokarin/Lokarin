@@ -14,6 +14,8 @@ Yo!
 >> - Lua;
 >> - C++;
 >> - Kotlin;
+>> - C;
+>> - Assemby;
 >> - HTML.
 
 
