@@ -1,5 +1,3 @@
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokarin&show_icons=true&theme=tokyonight)
-
 <h3> ╾╴Sobre mim: </h3>
 
 > - ♂ Sexo: Masculino / Idade: 21 Anos.
