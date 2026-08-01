@@ -1,6 +1,6 @@
 <h3> ╾╴Sobre mim: </h3>
 
-> - ♂ Sexo: Masculino / Idade: 21 Anos.
+> - ♂ Sexo: Masculino / Idade: 22 Anos.
 > - 💻 Interessado em áreas de tecnologia como Analise e Desinvolvimento de Sistemas e Segurança da Informação.
 > - 📚 Estudante de Engenharia Eletrônica.
 > - 🤓 Gosta de criar pequenos progamas e ferramentas para facilitar o dia a dia.
