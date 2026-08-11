@@ -6,7 +6,7 @@ I've been using **Linux as my main operating system and workstation for over eig
 
 Although I have experience developing **desktop and Android applications**, my programming interests have gradually shifted towards **microcontroller firmware and embedded systems**, as well as the development of small tools that make my day-to-day workflow easier.
 
-I enjoy tackling difficult problems, experimenting with new technologies, and learning through the process — especially when it involves **prototyping, hardware/software integration, and creating new solutions**.
+I enjoy tackling difficult problems, experimenting with new technologies, and learning through the process, especially when it involves **prototyping, hardware/software integration, and creating new solutions**.
 
 ---
 
@@ -91,10 +91,3 @@ My current goal is to become increasingly comfortable working across the entire 
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:onukiamaral@protonmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:onukiamaral2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henrique-amaral-onuki/)
-
-
-> - [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-amaral-onuki/)](https://www.linkedin.com/in/henrique-amaral-onuki/)
-
-> - [![Whatsapp Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/henrique_amaral_onuki)](https://www.instagram.com/henrique_amaral_onuki/)
-
-<br>
